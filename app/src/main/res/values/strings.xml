@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">My Application2</string>
+
+    <string name="app_name">My Gallery</string>
+    <string name="single_image">SingleImage</string>
+    <string name="show_gallery">show Gallery</string>
+    <string name="show_contact">show ApiCall</string>
+
 </resources>
